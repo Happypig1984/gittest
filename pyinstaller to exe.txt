@@ -1,0 +1,4 @@
+pyinstaller 打包exe
+
+ python Script 文件夹 cmd pyinstaller
+pyinstaller -F D:\music.py -w
